@@ -3,7 +3,7 @@
     "version": "1.0.5",
     "description": "在上下文生成时按较大块移除旧聊天记录（而非逐条移除），以提高 API 缓存命中率。",
     "author": "Arczium",
-    "homePage": "https://github.com/Arczium/ST-Message-Chunker",
+    "homePage": "https://github.com/kaikaisadc/ST-Message-Chunker",
     "js": "index.js",
     "loading_order": 111,
     "generate_interceptor": "MessageChunker_trimContext",
