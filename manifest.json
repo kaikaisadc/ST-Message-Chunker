@@ -1,7 +1,7 @@
 {
-    "display_name": "Message Chunker",
+    "display_name": "Message Chunker（消息分块器）",
     "version": "1.0.5",
-    "description": "Increases API cache hit rate by truncating the chat history in larger chunks during context generation, rather than message-by-message.",
+    "description": "在上下文生成时按较大块移除旧聊天记录（而非逐条移除），以提高 API 缓存命中率。",
     "author": "Arczium",
     "homePage": "https://github.com/Arczium/ST-Message-Chunker",
     "js": "index.js",
